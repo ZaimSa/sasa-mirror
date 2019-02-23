@@ -9,6 +9,7 @@ class WeatherMirror extends React.Component {
          };
          
          this.getTemperature();
+         console.log('SALUT');
         ;
     }
 
