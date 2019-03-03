@@ -6,6 +6,7 @@ class DateMirror extends React.Component {
         this.state = {
             date: new Date()
         };
+        console.log(props);
     }
     render() {
         return (
